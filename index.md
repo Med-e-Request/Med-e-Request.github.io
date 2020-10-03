@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-## Med-e-Request Provacy Policy
+## Med-e-Request Privacy Policy
 xxxcccxxx
 
 You can use the [editor on GitHub](https://github.com/Med-e-Request/Med-e-Request.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
