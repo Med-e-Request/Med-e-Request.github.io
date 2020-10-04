@@ -1,6 +1,4 @@
-## med-E-request
-
-### Privacy Policy
+## Privacy Policy
 This is my privacy policy
 
 ## Terms and Conditions
