@@ -1,10 +1,11 @@
 ## Privacy Policy
 
 1.	Introduction 
+
 The application med-E-request, and the developer Chloe Royston (‘the Developer’) respects the privacy of every person using the med-E-request application (‘the App’).  We will comply with all applicable data protection laws and regulations. This privacy policy sets out the Developer’s approach towards the use of personal information.  
 2.	Who is med-E-request? 
-med-E-request is a South African business focused on application development in South Africa. We can be contacted on mederequest@gmail.com.  
 
+med-E-request is a South African business focused on application development in South Africa. We can be contacted on mederequest@gmail.com.  
 The App can only be used by health care professionals. Medical practices, on behalf of the health care professionals who wish to use the App (the users), will register with Google’s Firebase. The practice will then provide each health care professional with a username and password to access the App. Users are referred to Google Firebase's privacy policy: https://firebase.google.com/support/privacy. 
 
 3.	What does med-E-request do?
