@@ -1,12 +1,17 @@
 div {
   margin-bottom:10px;
 }
+
+div .heading {
+  text-align: center;
+  font-size: xx-large;
+  
+}
+
 h1 {
   font-size: xx-large;
 }
-h2 {
-  font-size: x-large;
-}
+
 body {
   margin-bottom: 20px;
   margin-top: 20px;
